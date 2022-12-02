@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 import random
 
-TOKEN = DISCORD-TOKEN
+TOKEN = DISCORD_OKEN
 
 intents=discord.Intents.all()
 
